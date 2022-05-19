@@ -1,0 +1,41 @@
+/*.xsm {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}
+.sm {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}
+.md {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}
+.lg {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}
+.xl {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}
+.xxl {
+	background-color: red;
+	color: white;
+	font: italic;
+	height: 100px;
+}*/
+.box{
+	background: red;
+	color: white;
+	height: 200px;
+}
